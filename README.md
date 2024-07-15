@@ -67,6 +67,9 @@ if __name__ == "__main__":
     root.mainloop()
 ```
 
+## Screensots
+![image](https://github.com/user-attachments/assets/6476931e-91d7-48d3-bad9-38c2ae56f0bf)
+
 ## Contributing
 
 Feel free to fork this project and submit pull requests. Any contributions are welcome!
